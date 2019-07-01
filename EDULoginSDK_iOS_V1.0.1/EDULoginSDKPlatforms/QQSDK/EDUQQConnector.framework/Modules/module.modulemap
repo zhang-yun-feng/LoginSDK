@@ -1,0 +1,6 @@
+framework module EDUQQConnector {
+  umbrella header "EDUQQConnector.h"
+
+  export *
+  module * { export * }
+}

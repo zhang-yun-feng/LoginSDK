@@ -1,0 +1,6 @@
+framework module EDUWXConnector {
+  umbrella header "EDUWXConnector.h"
+
+  export *
+  module * { export * }
+}

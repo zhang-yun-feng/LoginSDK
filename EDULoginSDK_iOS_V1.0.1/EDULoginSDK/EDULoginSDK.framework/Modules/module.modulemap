@@ -1,0 +1,6 @@
+framework module EDULoginSDK {
+  umbrella header "EDULoginSDK.h"
+
+  export *
+  module * { export * }
+}

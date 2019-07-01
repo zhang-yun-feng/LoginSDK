@@ -1,0 +1,6 @@
+framework module EDUWBConnector {
+  umbrella header "EDUWBConnector.h"
+
+  export *
+  module * { export * }
+}
